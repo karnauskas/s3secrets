@@ -2,6 +2,7 @@
 *.iml
 bin/
 pkg/
-secrets/
 release/
+s3secrets
+secrets/
 src/github.com/UKHomeOffice/s3secrets/s3secrets
